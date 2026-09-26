@@ -1,7 +1,6 @@
 add and remove users
 change the roles
-manage database changes
-Closing the MYSQL database connection
+Closing the oracle database connection
 
 changes1
 changes2 in ram database

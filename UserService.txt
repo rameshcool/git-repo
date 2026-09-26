@@ -1,8 +1,6 @@
 Get the user data...
 Pushed the latest data.
 
-create an avatar for the user.
-
 login and logout
 
 changed to 1
